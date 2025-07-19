@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ao_001",
+    "question": "What is the primary responsibility of an Admin Officer in organizational management?",
+    "options": [
+      "Only handling paperwork",
+      "Coordinating administrative functions and supporting management decisions",
+      "Teaching employees",
+      "Cleaning the office"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An Admin Officer coordinates various administrative functions, supports management decisions, and ensures smooth organizational operations.",
+    "topic": "Management Functions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ao_002",
+    "question": "Which leadership style is most effective for team motivation?",
+    "options": [
+      "Autocratic only",
+      "Laissez-faire only",
+      "Situational leadership adapting to team needs",
+      "No leadership"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Situational leadership, which adapts to team needs and circumstances, is most effective for maintaining motivation and productivity.",
+    "topic": "Leadership",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ao_003",
+    "question": "What is the key principle of effective delegation?",
+    "options": [
+      "Doing everything yourself",
+      "Assigning tasks with clear expectations and appropriate authority",
+      "Random task assignment",
+      "Avoiding responsibility"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Effective delegation involves assigning tasks with clear expectations, providing necessary authority, and maintaining accountability.",
+    "topic": "Delegation",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ao_004",
+    "question": "How should conflicts between team members be resolved?",
+    "options": [
+      "Ignore them",
+      "Take sides immediately",
+      "Use structured conflict resolution with active listening and mediation",
+      "Fire everyone involved"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Conflicts should be resolved through structured processes involving active listening, understanding all perspectives, and mediation.",
+    "topic": "Conflict Resolution",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ao_005",
+    "question": "What is the importance of budget management for an Admin Officer?",
+    "options": [
+      "Not important",
+      "Only for large organizations",
+      "Essential for resource allocation and organizational efficiency",
+      "Only during year-end"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Budget management is essential for effective resource allocation, cost control, and ensuring organizational efficiency and sustainability.",
+    "topic": "Financial Management",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ao_006",
+    "question": "Which communication method is most effective for urgent organizational announcements?",
+    "options": [
+      "Postal mail only",
+      "Multiple channels including email, meetings, and notice boards",
+      "Rumors",
+      "Waiting for people to ask"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Urgent announcements require multiple communication channels to ensure all stakeholders receive the information promptly and clearly.",
+    "topic": "Communication",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ao_007",
+    "question": "What is the role of performance evaluation in team management?",
+    "options": [
+      "Punishment tool",
+      "Providing feedback, identifying development needs, and recognizing achievements",
+      "Waste of time",
+      "Only for promotions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Performance evaluation provides constructive feedback, identifies development opportunities, and recognizes achievements to improve team performance.",
+    "topic": "Performance Management",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ao_008",
+    "question": "How should an Admin Officer handle confidential information?",
+    "options": [
+      "Share with everyone",
+      "Maintain strict confidentiality and follow information security protocols",
+      "Use for personal benefit",
+      "Ignore security measures"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Confidential information must be handled with strict security measures, limited access, and adherence to organizational protocols.",
+    "topic": "Information Security",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ao_009",
+    "question": "What is the best approach for implementing organizational changes?",
+    "options": [
+      "Sudden implementation without notice",
+      "Gradual implementation with communication, training, and support",
+      "Avoiding all changes",
+      "Implementing changes randomly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Successful change implementation requires clear communication, adequate training, stakeholder support, and gradual transition.",
+    "topic": "Change Management",
+    "difficulty": "hard"
+  },
+  {
+    "id": "ao_010",
+    "question": "Which quality is most important for an effective Admin Officer?",
+    "options": [
+      "Being popular",
+      "Strong organizational skills and attention to detail",
+      "Avoiding responsibilities",
+      "Working in isolation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Strong organizational skills and attention to detail are crucial for managing multiple tasks, maintaining accuracy, and ensuring efficiency.",
+    "topic": "Professional Skills",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ao_011",
+    "question": "What is the purpose of Standard Operating Procedures (SOPs) in administration?",
+    "options": [
+      "To complicate processes",
+      "To ensure consistency, quality, and compliance in operations",
+      "To reduce employee freedom",
+      "To increase paperwork"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SOPs ensure consistency in operations, maintain quality standards, ensure compliance with regulations, and provide clear guidelines for employees.",
+    "topic": "Process Management",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ao_012",
+    "question": "How should an Admin Officer prioritize multiple urgent tasks?",
+    "options": [
+      "Handle them randomly",
+      "Use impact-urgency matrix and stakeholder importance",
+      "Always do the easiest first",
+      "Delegate everything"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Effective prioritization involves assessing impact, urgency, stakeholder importance, and available resources to make informed decisions.",
+    "topic": "Time Management",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ao_013",
+    "question": "What is the role of documentation in administrative processes?",
+    "options": [
+      "Unnecessary burden",
+      "Legal compliance, audit trails, and knowledge preservation",
+      "Only for government offices",
+      "To slow down processes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Documentation ensures legal compliance, creates audit trails, preserves institutional knowledge, and supports decision-making processes.",
+    "topic": "Documentation",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ao_014",
+    "question": "How should customer complaints be handled in an administrative setting?",
+    "options": [
+      "Ignore them",
+      "Listen actively, investigate thoroughly, and provide timely resolution",
+      "Blame other departments",
+      "Provide standard responses"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Effective complaint handling involves active listening, thorough investigation, empathy, and providing timely, appropriate resolutions.",
+    "topic": "Customer Service",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ao_015",
+    "question": "What is the importance of cross-training in administrative teams?",
+    "options": [
+      "Waste of resources",
+      "Ensures continuity, flexibility, and reduces single points of failure",
+      "Creates confusion",
+      "Only for large organizations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cross-training ensures business continuity, provides operational flexibility, reduces dependency on single individuals, and improves team collaboration.",
+    "topic": "Team Development",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "ar_001",
+    "question": "What is the primary role of an Assistant Registrar in a university?",
+    "options": [
+      "Teaching undergraduate courses",
+      "Managing administrative functions and student records",
+      "Conducting research projects",
+      "Organizing cultural events"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An Assistant Registrar primarily handles administrative functions including student records, admissions, examinations, and academic documentation.",
+    "topic": "Administrative Functions",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ar_002",
+    "question": "Which document is essential for student admission verification?",
+    "options": [
+      "Library card",
+      "Birth certificate and academic transcripts",
+      "Driving license",
+      "Passport only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Birth certificate and academic transcripts are essential documents for verifying student eligibility and academic background during admission.",
+    "topic": "Documentation",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ar_003",
+    "question": "What is the correct procedure for handling student grade appeals?",
+    "options": [
+      "Directly change the grade",
+      "Ignore the appeal",
+      "Follow institutional appeal process with proper documentation",
+      "Ask the student to contact the teacher directly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Grade appeals must follow the institutional process with proper documentation, review procedures, and appropriate approvals.",
+    "topic": "Academic Procedures",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ar_004",
+    "question": "Which software system is commonly used for student information management?",
+    "options": [
+      "Microsoft Word",
+      "Student Information System (SIS)",
+      "PowerPoint",
+      "Calculator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Student Information System (SIS) is specifically designed for managing student data, records, and academic information.",
+    "topic": "Technology Systems",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ar_005",
+    "question": "What is the importance of maintaining confidentiality in student records?",
+    "options": [
+      "It's not important",
+      "Only for famous students",
+      "Legal requirement under FERPA and privacy laws",
+      "Only during exam periods"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Maintaining confidentiality in student records is a legal requirement under FERPA (Family Educational Rights and Privacy Act) and other privacy laws.",
+    "topic": "Legal Compliance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ar_006",
+    "question": "How should transcript requests be processed?",
+    "options": [
+      "Immediately without verification",
+      "After proper identity verification and fee payment",
+      "Only on weekends",
+      "Through email only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Transcript requests must be processed after proper identity verification of the requester and payment of applicable fees.",
+    "topic": "Document Processing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ar_007",
+    "question": "What is the role of an Assistant Registrar during graduation ceremonies?",
+    "options": [
+      "Organizing entertainment",
+      "Verifying graduate eligibility and coordinating ceremony logistics",
+      "Cooking food",
+      "Taking photographs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "During graduation, Assistant Registrars verify graduate eligibility, coordinate with academic departments, and manage ceremony logistics.",
+    "topic": "Event Coordination",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ar_008",
+    "question": "Which principle is most important in customer service for students?",
+    "options": [
+      "Speed over accuracy",
+      "Accuracy, courtesy, and helpfulness",
+      "Strict rule enforcement only",
+      "Minimal interaction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Effective customer service requires accuracy in information, courtesy in interaction, and helpfulness in resolving student needs.",
+    "topic": "Customer Service",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ar_009",
+    "question": "What should be done if a student's record contains an error?",
+    "options": [
+      "Ignore it",
+      "Change it immediately without documentation",
+      "Follow proper correction procedures with supporting documentation",
+      "Tell the student to live with it"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Record corrections must follow proper procedures with supporting documentation and appropriate approvals to maintain data integrity.",
+    "topic": "Data Management",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ar_010",
+    "question": "What is the purpose of academic calendars in registrar operations?",
+    "options": [
+      "Decoration",
+      "Scheduling academic activities and deadlines",
+      "Personal use only",
+      "Marketing purposes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Academic calendars are essential for scheduling academic activities, setting deadlines, and coordinating institutional operations.",
+    "topic": "Academic Planning",
+    "difficulty": "easy"
+  }
+]

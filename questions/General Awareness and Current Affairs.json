@@ -1,0 +1,235 @@
+[
+  {
+    "id": "ga_001",
+    "question": "Who is the current President of India (as of 2024)?",
+    "options": [
+      "Ram Nath Kovind",
+      "Droupadi Murmu",
+      "Pranab Mukherjee",
+      "A.P.J. Abdul Kalam"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Droupadi Murmu is the current President of India, having taken office in July 2022. She is the 15th President and the first tribal woman to hold this position.",
+    "topic": "Indian Politics",
+    "difficulty": "easy",
+    "isCurrentAffair": true,
+    "date": "2022-07-25"
+  },
+  {
+    "id": "ga_002",
+    "question": "Which Indian state has the longest coastline?",
+    "options": [
+      "Maharashtra",
+      "Tamil Nadu",
+      "Gujarat",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gujarat has the longest coastline among Indian states, stretching approximately 1,600 kilometers along the Arabian Sea.",
+    "topic": "Indian Geography",
+    "difficulty": "medium",
+    "category": "geography"
+  },
+  {
+    "id": "ga_003",
+    "question": "The G20 Summit 2023 was hosted by which country?",
+    "options": [
+      "Indonesia",
+      "India",
+      "Italy",
+      "Japan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India hosted the G20 Summit in 2023 in New Delhi, with the theme 'Vasudhaiva Kutumbakam' (One Earth, One Family, One Future).",
+    "topic": "International Relations",
+    "difficulty": "easy",
+    "isCurrentAffair": true,
+    "date": "2023-09-09"
+  },
+  {
+    "id": "ga_004",
+    "question": "Which article of the Indian Constitution deals with the Right to Education?",
+    "options": [
+      "Article 19",
+      "Article 21A",
+      "Article 25",
+      "Article 32"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article 21A of the Indian Constitution provides for free and compulsory education for children aged 6-14 years as a fundamental right.",
+    "topic": "Indian Constitution",
+    "difficulty": "medium",
+    "category": "polity"
+  },
+  {
+    "id": "ga_005",
+    "question": "What is India's GDP growth rate target for 2024-25?",
+    "options": [
+      "6.5%",
+      "7.0%",
+      "7.5%",
+      "8.0%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India's GDP growth rate target for 2024-25 is approximately 7.0%, as projected by various economic surveys and government estimates.",
+    "topic": "Indian Economy",
+    "difficulty": "medium",
+    "isCurrentAffair": true,
+    "category": "economics"
+  },
+  {
+    "id": "ga_006",
+    "question": "Which space mission successfully landed on the Moon's south pole in 2023?",
+    "options": [
+      "Chandrayaan-2",
+      "Chandrayaan-3",
+      "Mangalyaan",
+      "Gaganyaan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chandrayaan-3 successfully landed on the Moon's south pole in August 2023, making India the fourth country to achieve a lunar landing.",
+    "topic": "Science & Technology",
+    "difficulty": "easy",
+    "isCurrentAffair": true,
+    "category": "science",
+    "date": "2023-08-23"
+  },
+  {
+    "id": "ga_007",
+    "question": "Who wrote the national anthem of India?",
+    "options": [
+      "Mahatma Gandhi",
+      "Rabindranath Tagore",
+      "Bankim Chandra Chatterjee",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rabindranath Tagore wrote 'Jana Gana Mana', which was adopted as India's national anthem. He also composed the music for it.",
+    "topic": "Indian History",
+    "difficulty": "easy",
+    "category": "history"
+  },
+  {
+    "id": "ga_008",
+    "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+    "options": [
+      "Hyderabad",
+      "Pune",
+      "Bangalore",
+      "Chennai"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bangalore (Bengaluru) is known as the 'Silicon Valley of India' due to its prominence as a major IT and technology hub.",
+    "topic": "Indian Geography",
+    "difficulty": "easy",
+    "category": "geography"
+  },
+  {
+    "id": "ga_009",
+    "question": "What is the theme of International Women's Day 2024?",
+    "options": [
+      "Choose to Challenge",
+      "Break the Bias",
+      "Inspire Inclusion",
+      "Gender Equality Today"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The theme for International Women's Day 2024 is 'Inspire Inclusion', focusing on creating inclusive environments for women.",
+    "topic": "International Events",
+    "difficulty": "medium",
+    "isCurrentAffair": true,
+    "date": "2024-03-08"
+  },
+  {
+    "id": "ga_010",
+    "question": "Which river is known as the 'Ganga of the South'?",
+    "options": [
+      "Krishna",
+      "Godavari",
+      "Cauvery",
+      "Tungabhadra"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Godavari river is known as the 'Ganga of the South' due to its length and cultural significance in South India.",
+    "topic": "Indian Geography",
+    "difficulty": "medium",
+    "category": "geography"
+  },
+  {
+    "id": "ga_011",
+    "question": "Who is the current Chief Justice of India (as of 2024)?",
+    "options": [
+      "N.V. Ramana",
+      "U.U. Lalit",
+      "D.Y. Chandrachud",
+      "Ranjan Gogoi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Justice D.Y. Chandrachud is the current Chief Justice of India, having assumed office in November 2022.",
+    "topic": "Indian Judiciary",
+    "difficulty": "medium",
+    "isCurrentAffair": true,
+    "category": "polity"
+  },
+  {
+    "id": "ga_012",
+    "question": "Which Indian state recently became the first to implement the Uniform Civil Code?",
+    "options": [
+      "Gujarat",
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Uttar Pradesh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Uttarakhand became the first Indian state to implement the Uniform Civil Code, which came into effect in 2024.",
+    "topic": "Indian Politics",
+    "difficulty": "medium",
+    "isCurrentAffair": true,
+    "category": "polity"
+  },
+  {
+    "id": "ga_013",
+    "question": "What is the capital of the newly formed state of Telangana?",
+    "options": [
+      "Warangal",
+      "Hyderabad",
+      "Nizamabad",
+      "Karimnagar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hyderabad is the capital of Telangana. It serves as the joint capital of both Telangana and Andhra Pradesh for a transitional period.",
+    "topic": "Indian Geography",
+    "difficulty": "easy",
+    "category": "geography"
+  },
+  {
+    "id": "ga_014",
+    "question": "Which organization releases the World Happiness Report?",
+    "options": [
+      "World Bank",
+      "United Nations Sustainable Development Solutions Network",
+      "International Monetary Fund",
+      "World Health Organization"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The World Happiness Report is published by the United Nations Sustainable Development Solutions Network annually.",
+    "topic": "International Organizations",
+    "difficulty": "medium",
+    "category": "international"
+  },
+  {
+    "id": "ga_015",
+    "question": "What is the full form of ISRO?",
+    "options": [
+      "Indian Space Research Organization",
+      "Indian Scientific Research Organization",
+      "International Space Research Organization",
+      "Indian Satellite Research Organization"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ISRO stands for Indian Space Research Organisation, India's national space agency established in 1969.",
+    "topic": "Science & Technology",
+    "difficulty": "easy",
+    "category": "science"
+  }
+]

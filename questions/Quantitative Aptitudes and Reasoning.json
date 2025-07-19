@@ -1,0 +1,326 @@
+[
+  {
+    "id": "qr_001",
+    "question": "If a shopkeeper sells an article for ₹480 and makes a profit of 20%, what was the cost price?",
+    "options": [
+      "₹400",
+      "₹380",
+      "₹420",
+      "₹360"
+    ],
+    "correctAnswer": 0,
+    "explanation": "If selling price = ₹480 and profit = 20%, then Cost Price = SP/(1 + profit%) = 480/(1 + 0.20) = 480/1.20 = ₹400",
+    "topic": "Profit and Loss",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "formula": "Cost Price = Selling Price / (1 + Profit%)",
+    "steps": [
+      "Given: Selling Price = ₹480, Profit = 20%",
+      "Formula: Cost Price = Selling Price / (1 + Profit%)",
+      "Cost Price = 480 / (1 + 0.20) = 480 / 1.20",
+      "Cost Price = ₹400"
+    ]
+  },
+  {
+    "id": "qr_002",
+    "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+    "options": [
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The differences are: 4, 6, 8, 10, ... (increasing by 2). So the next difference is 12, making the next term 30 + 12 = 42.",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "type": "reasoning",
+    "steps": [
+      "Observe the differences: 6-2=4, 12-6=6, 20-12=8, 30-20=10",
+      "The differences form an arithmetic sequence: 4, 6, 8, 10, ...",
+      "Next difference = 10 + 2 = 12",
+      "Next term = 30 + 12 = 42"
+    ]
+  },
+  {
+    "id": "qr_003",
+    "question": "A train travels 240 km in 4 hours. What is its speed in km/h?",
+    "options": [
+      "50 km/h",
+      "60 km/h",
+      "70 km/h",
+      "80 km/h"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed = Distance / Time = 240 km / 4 hours = 60 km/h",
+    "topic": "Speed, Time and Distance",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "formula": "Speed = Distance / Time",
+    "steps": [
+      "Given: Distance = 240 km, Time = 4 hours",
+      "Formula: Speed = Distance / Time",
+      "Speed = 240 / 4 = 60 km/h"
+    ]
+  },
+  {
+    "id": "qr_004",
+    "question": "What is the compound interest on ₹5000 for 2 years at 10% per annum?",
+    "options": [
+      "₹1000",
+      "₹1050",
+      "₹1100",
+      "₹1200"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Amount = P(1 + R/100)^T = 5000(1 + 10/100)^2 = 5000(1.1)^2 = 5000 × 1.21 = ₹6050. CI = Amount - Principal = 6050 - 5000 = ₹1050",
+    "topic": "Compound Interest",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "formula": "CI = P(1 + R/100)^T - P",
+    "steps": [
+      "Given: P = ₹5000, R = 10%, T = 2 years",
+      "Amount = P(1 + R/100)^T = 5000(1 + 10/100)^2",
+      "Amount = 5000 × (1.1)^2 = 5000 × 1.21 = ₹6050",
+      "Compound Interest = Amount - Principal = 6050 - 5000 = ₹1050"
+    ]
+  },
+  {
+    "id": "qr_005",
+    "question": "If CODING is written as DPEJOH, how is FLOWER written?",
+    "options": [
+      "GMPXFS",
+      "GMPXFR",
+      "GMPWFS",
+      "GKPXFS"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Each letter is shifted by +1 position in the alphabet. F→G, L→M, O→P, W→X, E→F, R→S. So FLOWER becomes GMPXFS.",
+    "topic": "Coding-Decoding",
+    "difficulty": "medium",
+    "type": "reasoning",
+    "steps": [
+      "Analyze the pattern: C→D, O→P, D→E, I→J, N→O, G→H",
+      "Each letter is shifted by +1 position in the alphabet",
+      "Apply the same pattern to FLOWER:",
+      "F→G, L→M, O→P, W→X, E→F, R→S",
+      "Therefore, FLOWER = GMPXFS"
+    ]
+  },
+  {
+    "id": "qr_006",
+    "question": "The area of a circle with radius 7 cm is:",
+    "options": [
+      "154 cm²",
+      "144 cm²",
+      "164 cm²",
+      "174 cm²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Area of circle = πr² = (22/7) × 7² = (22/7) × 49 = 22 × 7 = 154 cm²",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "formula": "Area = πr²",
+    "steps": [
+      "Given: radius (r) = 7 cm",
+      "Formula: Area = πr²",
+      "Area = (22/7) × 7²",
+      "Area = (22/7) × 49 = 22 × 7 = 154 cm²"
+    ]
+  },
+  {
+    "id": "qr_007",
+    "question": "What is 25% of 80?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "25% of 80 = (25/100) × 80 = 0.25 × 80 = 20",
+    "topic": "Percentage",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "formula": "Percentage = (Part/Whole) × 100",
+    "steps": [
+      "25% of 80 = (25/100) × 80",
+      "= 0.25 × 80",
+      "= 20"
+    ]
+  },
+  {
+    "id": "qr_008",
+    "question": "Find the odd one out: 3, 7, 11, 14, 17",
+    "options": [
+      "3",
+      "7",
+      "14",
+      "17"
+    ],
+    "correctAnswer": 2,
+    "explanation": "All numbers except 14 are prime numbers. 14 = 2 × 7, so it's not prime.",
+    "topic": "Number Classification",
+    "difficulty": "medium",
+    "type": "reasoning",
+    "steps": [
+      "Check if each number is prime:",
+      "3 is prime (divisible only by 1 and 3)",
+      "7 is prime (divisible only by 1 and 7)",
+      "11 is prime (divisible only by 1 and 11)",
+      "14 = 2 × 7, so it's not prime",
+      "17 is prime (divisible only by 1 and 17)",
+      "Therefore, 14 is the odd one out"
+    ]
+  },
+  {
+    "id": "qr_009",
+    "question": "If the ratio of boys to girls in a class is 3:2 and there are 15 boys, how many girls are there?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If boys:girls = 3:2 and boys = 15, then 3 parts = 15, so 1 part = 5. Girls = 2 parts = 2 × 5 = 10",
+    "topic": "Ratio and Proportion",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "steps": [
+      "Given: Boys:Girls = 3:2, Boys = 15",
+      "If 3 parts represent boys, then 3 parts = 15",
+      "Therefore, 1 part = 15/3 = 5",
+      "Girls = 2 parts = 2 × 5 = 10"
+    ]
+  },
+  {
+    "id": "qr_010",
+    "question": "What comes next in the pattern: A1, C3, E5, G7, ?",
+    "options": [
+      "H8",
+      "I9",
+      "J10",
+      "K11"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pattern alternates letters (A, C, E, G, I - skipping one letter each time) with consecutive odd numbers (1, 3, 5, 7, 9).",
+    "topic": "Pattern Recognition",
+    "difficulty": "medium",
+    "type": "reasoning",
+    "steps": [
+      "Analyze the letter pattern: A, C, E, G (skipping one letter each time)",
+      "Next letter after G (skipping H) is I",
+      "Analyze the number pattern: 1, 3, 5, 7 (consecutive odd numbers)",
+      "Next odd number after 7 is 9",
+      "Therefore, the next term is I9"
+    ]
+  },
+  {
+    "id": "qr_011",
+    "question": "A man can complete a work in 12 days. If he works with his son, they can complete it in 8 days. In how many days can the son complete the work alone?",
+    "options": [
+      "20 days",
+      "24 days",
+      "18 days",
+      "16 days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Man's rate = 1/12 per day. Combined rate = 1/8 per day. Son's rate = 1/8 - 1/12 = 3/24 - 2/24 = 1/24 per day. So son takes 24 days.",
+    "topic": "Work and Time",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "steps": [
+      "Man's work rate = 1/12 work per day",
+      "Combined work rate = 1/8 work per day",
+      "Son's work rate = Combined rate - Man's rate",
+      "Son's rate = 1/8 - 1/12 = 3/24 - 2/24 = 1/24",
+      "Therefore, son takes 24 days to complete the work alone"
+    ]
+  },
+  {
+    "id": "qr_012",
+    "question": "The average of 5 numbers is 27. If one number is excluded, the average becomes 25. What is the excluded number?",
+    "options": [
+      "32",
+      "35",
+      "37",
+      "40"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sum of 5 numbers = 5 × 27 = 135. Sum of 4 numbers = 4 × 25 = 100. Excluded number = 135 - 100 = 35.",
+    "topic": "Average",
+    "difficulty": "medium",
+    "type": "multiple-choice",
+    "steps": [
+      "Sum of 5 numbers = Average × Count = 27 × 5 = 135",
+      "Sum of remaining 4 numbers = 25 × 4 = 100",
+      "Excluded number = Total sum - Sum of 4 numbers",
+      "Excluded number = 135 - 100 = 35"
+    ]
+  },
+  {
+    "id": "qr_013",
+    "question": "If 3x + 7 = 22, what is the value of x?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "3x + 7 = 22, so 3x = 22 - 7 = 15, therefore x = 15/3 = 5",
+    "topic": "Linear Equations",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "steps": [
+      "Given equation: 3x + 7 = 22",
+      "Subtract 7 from both sides: 3x = 22 - 7",
+      "Simplify: 3x = 15",
+      "Divide by 3: x = 15/3 = 5"
+    ]
+  },
+  {
+    "id": "qr_014",
+    "question": "In a bag, there are 5 red balls, 3 blue balls, and 2 green balls. What is the probability of drawing a blue ball?",
+    "options": [
+      "1/5",
+      "3/10",
+      "1/3",
+      "2/5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total balls = 5 + 3 + 2 = 10. Blue balls = 3. Probability = 3/10",
+    "topic": "Probability",
+    "difficulty": "easy",
+    "type": "multiple-choice",
+    "formula": "Probability = Favorable outcomes / Total outcomes",
+    "steps": [
+      "Count total balls: 5 + 3 + 2 = 10",
+      "Count blue balls: 3",
+      "Probability = Blue balls / Total balls = 3/10"
+    ]
+  },
+  {
+    "id": "qr_015",
+    "question": "What is the next term in the sequence: 1, 4, 9, 16, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "36",
+      "49"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This is a sequence of perfect squares: 1², 2², 3², 4², 5², 6². So the next term is 6² = 36.",
+    "topic": "Number Patterns",
+    "difficulty": "easy",
+    "type": "reasoning",
+    "steps": [
+      "Identify the pattern: 1 = 1², 4 = 2², 9 = 3², 16 = 4², 25 = 5²",
+      "This is a sequence of perfect squares",
+      "Next term should be 6²",
+      "6² = 36"
+    ]
+  }
+]
