@@ -28,7 +28,7 @@ class AssistantRegistrarTab {
 
   async loadQuestions() {
     try {
-      const response = await fetch('./questions/Assistant Registrar.json');
+      const response = await fetch('../../../questions/Assistant Registrar.json');
       if (!response.ok) {
         throw new Error('Failed to load questions');
       }
@@ -672,7 +672,7 @@ class AssistantRegistrarTab {
           <button class="btn btn-outline" onclick="this.closest('.modal-overlay').remove(); assistantRegistrarTab.resetSession()">
             Study More
           </button>
-          <button class="btn btn-primary" onclick="window.location.href='./src/pages/dashboard.html'">
+          <button class="btn btn-primary" onclick="window.location.href='../dashboard.html'">
             View Dashboard
           </button>
         </div>

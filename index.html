@@ -79,12 +79,12 @@
                                 <div class="option-card">
                                     <h4>Practice Mode</h4>
                                     <p>Study questions with instant feedback</p>
-                                    <button class="btn btn-primary" onclick="openExamTab('Assistant Registrar')">Start Practice</button>
+                                    <button class="btn btn-primary" onclick="window.location.href='src/pages/tabs/Assistant Registrar.html'">Start Practice</button>
                                 </div>
                                 <div class="option-card">
                                     <h4>Mock Test</h4>
                                     <p>Timed exam simulation</p>
-                                    <button class="btn btn-secondary" onclick="startQuiz('Assistant Registrar')">Take Test</button>
+                                    <button class="btn btn-secondary" onclick="window.location.href='src/pages/Quiz.html?subject=Assistant Registrar&mode=test'">Take Test</button>
                                 </div>
                             </div>
                         </div>
@@ -94,12 +94,12 @@
                                 <div class="option-card">
                                     <h4>Practice Mode</h4>
                                     <p>Study questions with instant feedback</p>
-                                    <button class="btn btn-primary" onclick="openExamTab('Admin Officer')">Start Practice</button>
+                                    <button class="btn btn-primary" onclick="window.location.href='src/pages/tabs/Admin Officer.html'">Start Practice</button>
                                 </div>
                                 <div class="option-card">
                                     <h4>Mock Test</h4>
                                     <p>Timed exam simulation</p>
-                                    <button class="btn btn-secondary" onclick="startQuiz('Admin Officer')">Take Test</button>
+                                    <button class="btn btn-secondary" onclick="window.location.href='src/pages/Quiz.html?subject=Admin Officer&mode=test'">Take Test</button>
                                 </div>
                             </div>
                         </div>
@@ -109,12 +109,12 @@
                                 <div class="option-card">
                                     <h4>Practice Mode</h4>
                                     <p>Study questions with instant feedback</p>
-                                    <button class="btn btn-primary" onclick="openExamTab('General Awareness and Current Affairs')">Start Practice</button>
+                                    <button class="btn btn-primary" onclick="window.location.href='src/pages/tabs/General Awareness and Current Affairs.html'">Start Practice</button>
                                 </div>
                                 <div class="option-card">
                                     <h4>Mock Test</h4>
                                     <p>Timed exam simulation</p>
-                                    <button class="btn btn-secondary" onclick="startQuiz('General Awareness and Current Affairs')">Take Test</button>
+                                    <button class="btn btn-secondary" onclick="window.location.href='src/pages/Quiz.html?subject=General Awareness and Current Affairs&mode=test'">Take Test</button>
                                 </div>
                             </div>
                         </div>
@@ -124,26 +124,26 @@
                                 <div class="option-card">
                                     <h4>Practice Mode</h4>
                                     <p>Study questions with instant feedback</p>
-                                    <button class="btn btn-primary" onclick="openExamTab('Quantitative Aptitudes and Reasoning')">Start Practice</button>
+                                    <button class="btn btn-primary" onclick="window.location.href='src/pages/tabs/Quantitative Aptitudes and Reasoning.html'">Start Practice</button>
                                 </div>
                                 <div class="option-card">
                                     <h4>Mock Test</h4>
                                     <p>Timed exam simulation</p>
-                                    <button class="btn btn-secondary" onclick="startQuiz('Quantitative Aptitudes and Reasoning')">Take Test</button>
+                                    <button class="btn btn-secondary" onclick="window.location.href='src/pages/Quiz.html?subject=Quantitative Aptitudes and Reasoning&mode=test'">Take Test</button>
                                 </div>
                             </div>
                         </div>
                     </div>
 
                     <div class="quick-actions">
-                        <button class="action-btn" onclick="window.location.href='src/pages/dashboard.html'">
+                        <a href="src/pages/dashboard.html" class="action-btn">
                             <div class="action-icon">📊</div>
                             <span>Dashboard</span>
-                        </button>
-                        <button class="action-btn" onclick="window.location.href='src/pages/Quiz.html'">
+                        </a>
+                        <a href="src/pages/Quiz.html" class="action-btn">
                             <div class="action-icon">🎯</div>
                             <span>Quick Quiz</span>
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>

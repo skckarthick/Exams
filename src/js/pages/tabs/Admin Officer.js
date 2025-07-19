@@ -24,7 +24,7 @@ class AdminOfficerTab {
 
   async loadQuestions() {
     try {
-      const response = await fetch('./questions/Admin Officer.json');
+      const response = await fetch('../../../questions/Admin Officer.json');
       if (!response.ok) {
         throw new Error('Failed to load questions');
       }
@@ -662,7 +662,7 @@ class AdminOfficerTab {
           <button class="btn btn-outline" onclick="this.closest('.modal-overlay').remove(); adminOfficerTab.resetSession()">
             Continue Learning
           </button>
-          <button class="btn btn-primary" onclick="window.location.href='./src/pages/dashboard.html'">
+          <button class="btn btn-primary" onclick="window.location.href='../dashboard.html'">
             View Dashboard
           </button>
         </div>

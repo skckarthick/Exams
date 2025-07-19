@@ -239,7 +239,7 @@ class Dashboard {
               <div class="empty-state-icon">📝</div>
               <h3 class="empty-state-title">No Quiz History</h3>
               <p class="empty-state-description">Start taking quizzes to see your progress here!</p>
-              <a href="./src/pages/Quiz.html" class="btn btn-primary">Take Your First Quiz</a>
+              <a href="./Quiz.html" class="btn btn-primary">Take Your First Quiz</a>
             </div>
           `}
         </div>
@@ -321,13 +321,13 @@ class Dashboard {
   renderQuickActions() {
     return `
       <div class="quick-actions-section">
-        <a href="./src/pages/Quiz.html" class="quick-action-card">
+        <a href="./Quiz.html" class="quick-action-card">
           <span class="quick-action-icon">🎯</span>
           <h3 class="quick-action-title">Take Quiz</h3>
           <p class="quick-action-description">Start a new practice session</p>
         </a>
         
-        <a href="./src/pages/tabs/Assistant Registrar.html" class="quick-action-card">
+        <a href="./tabs/Assistant Registrar.html" class="quick-action-card">
           <span class="quick-action-icon">📚</span>
           <h3 class="quick-action-title">Study Mode</h3>
           <p class="quick-action-description">Practice with explanations</p>
@@ -782,11 +782,11 @@ class Dashboard {
 
   followRecommendation(action) {
     const actions = {
-      study_basics: () => window.location.href = './src/pages/tabs/Assistant Registrar.html',
+      study_basics: () => window.location.href = './tabs/Assistant Registrar.html',
       review_mistakes: () => this.reviewWrongAnswers(),
-      daily_practice: () => window.location.href = './src/pages/Quiz.html',
-      mock_test: () => window.location.href = './src/pages/Quiz.html?duration=60&questions=50',
-      explore_topics: () => window.location.href = './'
+      daily_practice: () => window.location.href = './Quiz.html',
+      mock_test: () => window.location.href = './Quiz.html?duration=60&questions=50',
+      explore_topics: () => window.location.href = '../../index.html'
     };
 
     if (actions[action]) {

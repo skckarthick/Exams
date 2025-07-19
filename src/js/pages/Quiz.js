@@ -58,7 +58,7 @@ class QuizApp {
               <option value="Assistant Registrar" ${this.quizSettings.subject === 'Assistant Registrar' ? 'selected' : ''}>Assistant Registrar</option>
               <option value="Admin Officer" ${this.quizSettings.subject === 'Admin Officer' ? 'selected' : ''}>Admin Officer</option>
               <option value="General Awareness and Current Affairs" ${this.quizSettings.subject === 'General Awareness and Current Affairs' ? 'selected' : ''}>General Awareness & Current Affairs</option>
-              <option value="Quantitative Appritudes and Reasoning" ${this.quizSettings.subject === 'Quantitative Appritudes and Reasoning' ? 'selected' : ''}>Quantitative Aptitudes & Reasoning</option>
+              <option value="Quantitative Aptitudes and Reasoning" ${this.quizSettings.subject === 'Quantitative Aptitudes and Reasoning' ? 'selected' : ''}>Quantitative Aptitudes & Reasoning</option>
             </select>
           </div>
           
@@ -177,7 +177,7 @@ class QuizApp {
   }
 
   async loadQuestions() {
-    const response = await fetch(`./questions/${this.quizSettings.subject}.json`);
+    const response = await fetch(`../../questions/${this.quizSettings.subject}.json`);
     if (!response.ok) {
       throw new Error(`Failed to load questions for ${this.quizSettings.subject}`);
     }
@@ -635,7 +635,7 @@ class QuizApp {
           <button class="btn btn-secondary" onclick="window.location.reload()">
             Retake Quiz
           </button>
-          <button class="btn btn-primary" onclick="window.location.href='/'">
+          <button class="btn btn-primary" onclick="window.location.href='../../index.html'">
             Back to Home
           </button>
         </div>

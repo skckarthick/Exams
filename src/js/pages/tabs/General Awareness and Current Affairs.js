@@ -26,7 +26,7 @@ class GeneralAwarenessTab {
 
   async loadQuestions() {
     try {
-      const response = await fetch('./questions/General Awareness and Current Affairs.json');
+      const response = await fetch('../../../questions/General Awareness and Current Affairs.json');
       if (!response.ok) {
         throw new Error('Failed to load questions');
       }
@@ -955,7 +955,7 @@ class GeneralAwarenessTab {
           <button class="btn btn-outline" onclick="this.closest('.modal-overlay').remove(); generalAwarenessTab.resetSession()">
             Continue Learning
           </button>
-          <button class="btn btn-primary" onclick="window.location.href='./src/pages/dashboard.html'">
+          <button class="btn btn-primary" onclick="window.location.href='../dashboard.html'">
             View Dashboard
           </button>
         </div>
