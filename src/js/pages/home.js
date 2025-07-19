@@ -130,7 +130,7 @@ class HomePage {
     // Search through all question banks
     for (const subject of subjects) {
       try {
-        const response = await fetch(`/questions/${subject}.json`);
+        const response = await fetch(`./questions/${subject}.json`);
         if (response.ok) {
           const questions = await response.json();
           const matches = this.findMatchingQuestions(questions, query, subject);
@@ -528,10 +528,10 @@ class HomePage {
 // Global functions for button interactions
 window.openExamTab = function(examType) {
   const examPages = {
-    'Assistant Registrar': '/src/pages/tabs/Assistant Registrar.html',
-    'Admin Officer': '/src/pages/tabs/Admin Officer.html',
-    'General Awareness and Current Affairs': '/src/pages/tabs/General Awareness and Current Affairs.html',
-    'Quantitative Aptitudes and Reasoning': '/src/pages/tabs/Quantitative Aptitudes and Reasoning.html'
+    'Assistant Registrar': './src/pages/tabs/Assistant Registrar.html',
+    'Admin Officer': './src/pages/tabs/Admin Officer.html',
+    'General Awareness and Current Affairs': './src/pages/tabs/General Awareness and Current Affairs.html',
+    'Quantitative Aptitudes and Reasoning': './src/pages/tabs/Quantitative Aptitudes and Reasoning.html'
   };
 
   const url = examPages[examType];
@@ -541,12 +541,12 @@ window.openExamTab = function(examType) {
 };
 
 window.startQuiz = function(examType) {
-  const quizUrl = `/src/pages/Quiz.html?subject=${encodeURIComponent(examType)}&mode=test`;
+  const quizUrl = `./src/pages/Quiz.html?subject=${encodeURIComponent(examType)}&mode=test`;
   window.location.href = quizUrl;
 };
 
 window.openQuestionDetail = function(subject, questionIndex) {
-  const url = `/src/pages/tabs/${subject}.html?question=${questionIndex}`;
+  const url = `./src/pages/tabs/${subject}.html?question=${questionIndex}`;
   window.location.href = url;
 };
 

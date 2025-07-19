@@ -27,9 +27,9 @@ class Footer {
             <div class="footer-section">
               <h3 class="footer-title">Quick Links</h3>
               <ul class="footer-links">
-                <li><a href="/">Home</a></li>
-                <li><a href="/src/pages/Quiz.html">Take Quiz</a></li>
-                <li><a href="/src/pages/dashboard.html">Dashboard</a></li>
+                <li><a href="./">Home</a></li>
+                <li><a href="./src/pages/Quiz.html">Take Quiz</a></li>
+                <li><a href="./src/pages/dashboard.html">Dashboard</a></li>
                 <li><a href="#" onclick="showAbout()">About</a></li>
               </ul>
             </div>
@@ -37,10 +37,10 @@ class Footer {
             <div class="footer-section">
               <h3 class="footer-title">Exam Categories</h3>
               <ul class="footer-links">
-                <li><a href="/src/pages/tabs/Assistant Registrar.html">Assistant Registrar</a></li>
-                <li><a href="/src/pages/tabs/Admin Officer.html">Admin Officer</a></li>
-                <li><a href="/src/pages/tabs/General Awareness and Current Affairs.html">General Awareness</a></li>
-                <li><a href="/src/pages/tabs/Quantitative Aptitudes and Reasoning.html">Quantitative & Reasoning</a></li>
+                <li><a href="./src/pages/tabs/Assistant Registrar.html">Assistant Registrar</a></li>
+                <li><a href="./src/pages/tabs/Admin Officer.html">Admin Officer</a></li>
+                <li><a href="./src/pages/tabs/General Awareness and Current Affairs.html">General Awareness</a></li>
+                <li><a href="./src/pages/tabs/Quantitative Aptitudes and Reasoning.html">Quantitative & Reasoning</a></li>
               </ul>
             </div>
 
@@ -58,8 +58,7 @@ class Footer {
           <div class="footer-bottom">
             <div class="footer-bottom-content">
               <p class="copyright">
-                &copy; ${new Date().getFullYear()} ExamPrep Portal. All rights reserved. 👨‍💻 Crafted with ❤️ by SKc
-
+                &copy; ${new Date().getFullYear()} ExamPrep Portal. All rights reserved.
               </p>
               <div class="footer-meta">
                 <span class="version">v1.0.0</span>

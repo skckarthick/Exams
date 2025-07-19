@@ -23,21 +23,21 @@ class Header {
             <div class="nav-menu" id="nav-menu">
               <ul class="nav-list">
                 <li class="nav-item">
-                  <a href="/" class="nav-link">Home</a>
+                  <a href="./" class="nav-link">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a href="/src/pages/Quiz.html" class="nav-link">Quiz</a>
+                  <a href="./src/pages/Quiz.html" class="nav-link">Quiz</a>
                 </li>
                 <li class="nav-item">
-                  <a href="/src/pages/dashboard.html" class="nav-link">Dashboard</a>
+                  <a href="./src/pages/dashboard.html" class="nav-link">Dashboard</a>
                 </li>
                 <li class="nav-item dropdown">
                   <a href="#" class="nav-link dropdown-toggle">Subjects</a>
                   <ul class="dropdown-menu">
-                    <li><a href="/src/pages/tabs/Assistant Registrar.html" class="dropdown-link">Assistant Registrar</a></li>
-                    <li><a href="/src/pages/tabs/Admin Officer.html" class="dropdown-link">Admin Officer</a></li>
-                    <li><a href="/src/pages/tabs/General Awareness and Current Affairs.html" class="dropdown-link">General Awareness</a></li>
-                    <li><a href="/src/pages/tabs/Quantitative Aptitudes and Reasoning.html" class="dropdown-link">Quantitative & Reasoning</a></li>
+                    <li><a href="./src/pages/tabs/Assistant Registrar.html" class="dropdown-link">Assistant Registrar</a></li>
+                    <li><a href="./src/pages/tabs/Admin Officer.html" class="dropdown-link">Admin Officer</a></li>
+                    <li><a href="./src/pages/tabs/General Awareness and Current Affairs.html" class="dropdown-link">General Awareness</a></li>
+                    <li><a href="./src/pages/tabs/Quantitative Aptitudes and Reasoning.html" class="dropdown-link">Quantitative & Reasoning</a></li>
                   </ul>
                 </li>
               </ul>
